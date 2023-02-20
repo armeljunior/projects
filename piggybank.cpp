@@ -17,6 +17,7 @@ int main() {
 void Colombian() {
   int columbiannumber,brazilianreais,peruviansoles;
 
+
   std::cout << "Enter number of Colombian Pesos:";
   std::cin >> columbiannumber;
 
