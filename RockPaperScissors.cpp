@@ -54,4 +54,4 @@ std::cin >> user;
             break;
     }
     return 0;
-} //g++ rock_paper_scissors.cpp; ./a.out 
+} //g++ rock_paper_scissors.cpp; ./a.out  ir g++ rock_paper_scissors.cpp -o rockpaperscissors then use ./
